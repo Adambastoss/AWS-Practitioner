@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GOVERNANCE/Services.md",
+                "file": "MACHINE_LEARN/Services.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GOVERNANCE/Services.md",
+                "file": "MACHINE_LEARN/Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GOVERNANCE/Services.md",
+                "file": "MACHINE_LEARN/Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GOVERNANCE/Services.md",
+                "file": "MACHINE_LEARN/Services.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,10 +172,13 @@
   },
   "active": "3dc404b43f1dca20",
   "lastOpenFiles": [
-    "DATA",
     "SECURITY/Services.md",
+    "MACHINE_LEARN/Services.md",
+    "MACHINE_LEARN",
     "STORAGE/Services.md",
     "GOVERNANCE/Services.md",
+    "DEVELOPEMENT",
+    "DATA",
     "GOVERNANCE",
     "SECURITY",
     "STORAGE"
