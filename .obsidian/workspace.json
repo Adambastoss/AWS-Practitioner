@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MACHINE_LEARN/Services.md",
+                "file": "NETWORK/Services.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,8 +172,11 @@
   },
   "active": "3dc404b43f1dca20",
   "lastOpenFiles": [
-    "SECURITY/Services.md",
     "MACHINE_LEARN/Services.md",
+    "NETWORK/Services.md",
+    "NETWORK",
+    "DATA/Services.md",
+    "SECURITY/Services.md",
     "MACHINE_LEARN",
     "STORAGE/Services.md",
     "GOVERNANCE/Services.md",
