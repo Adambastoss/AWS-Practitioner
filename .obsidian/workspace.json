@@ -169,15 +169,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "3dc404b43f1dca20",
+  "active": "3fe2842ae9d679a5",
   "lastOpenFiles": [
+    "NETWORK/Services.md",
+    "NETWORK",
+    "DATA/Services.md",
+    "DATA",
     "STORAGE/Services.md",
     "MACHINE_LEARN/Services.md",
     "SECURITY/Services.md",
     "MACHINE_LEARN",
     "GOVERNANCE/Services.md",
     "DEVELOPEMENT",
-    "DATA",
     "GOVERNANCE",
     "SECURITY",
     "STORAGE"
