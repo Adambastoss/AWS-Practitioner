@@ -35,4 +35,6 @@ Ele é o serviço de **Text-to-Speech (TTS)** da AWS que converte ``texto em f
 - Em um chatbot de voz (Lex), o Polly é o componente responsável por _falar_ as respostas que o Lex formula.
 
 
+### O AWS Compute Optimizer
+Utiliza o aprendizado de máquina (machine learning) para identificar configurações ideais de recursos na AWS, analisando métricas de utilização, como instâncias do EC2, volumes do EBS, tarefas do ECS no AWS Fargate e memória do AWS Lambda, analisando métricas de utilização.
 

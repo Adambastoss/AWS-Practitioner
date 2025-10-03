@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK/Services.md",
+                "file": "MACHINE_LEARN/Services.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a4c3ec85142023a4",
@@ -172,13 +171,16 @@
   },
   "active": "3dc404b43f1dca20",
   "lastOpenFiles": [
+    "STORAGE/Services.md",
+    "DATA/Services.md",
     "MACHINE_LEARN/Services.md",
+    "DEVELOPEMENT/Services.md",
+    "SECURITY/Services.md",
+    "FINANCEIRO/Services.md",
+    "FINANCEIRO",
     "NETWORK/Services.md",
     "NETWORK",
-    "DATA/Services.md",
-    "SECURITY/Services.md",
     "MACHINE_LEARN",
-    "STORAGE/Services.md",
     "GOVERNANCE/Services.md",
     "DEVELOPEMENT",
     "DATA",
