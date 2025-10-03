@@ -2,6 +2,12 @@
 
 Amazon SageMaker é um serviço **gerenciado** de aprendizado de máquina da AWS que permite ==criar==, ==treinar== e ==implantar== modelos de **machine learning** de maneira eficiente.
 
+### Amazon Textract
+
+O Amazon Textract utiliza aprendizado de máquina (==machine learning==) para analisas os documentos, detectar e **extrair texto** impresso e manuscrito.
+
+--------------------------------------------------------------------------
+=======
 ### Contact Center Intelligence (CCI)
 
 CCI não é um produto único, mas sim um **conjunto estratégico de serviços de IA e machine learning da AWS** projetados para transformar a experiência tradicional de call center em um **centro de engajamento do cliente inteligente, preditivo e altamente eficiente**.
@@ -34,7 +40,10 @@ Serviço de busca inteligente em documentos. Permite que agentes ou _chatbots_�
 Ele é o serviço de **Text-to-Speech (TTS)** da AWS que converte ``texto em fala realista.
 - Em um chatbot de voz (Lex), o Polly é o componente responsável por _falar_ as respostas que o Lex formula.
 
+<<<<<<< HEAD
 
 ### O AWS Compute Optimizer
 Utiliza o aprendizado de máquina (machine learning) para identificar configurações ideais de recursos na AWS, analisando métricas de utilização, como instâncias do EC2, volumes do EBS, tarefas do ECS no AWS Fargate e memória do AWS Lambda, analisando métricas de utilização.
 
+=======
+>>>>>>> 7079bb99ab4c0dc6e71269a969abe7eca8346dfd
